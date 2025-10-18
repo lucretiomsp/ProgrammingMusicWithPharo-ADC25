@@ -14,3 +14,5 @@ Slides, code, and extra materials for the ADC25 workshop **“Programming Music 
 
 [LIVE CODING _a user's manual](https://static.livecodingbook.toplap.org/books/livecoding.pdf)
 
+[Hexbeat tutorial by Steven Yi](https://github.com/kunstmusik/csound-live-code/blob/main/doc/hexadecimal_beats.md)
+

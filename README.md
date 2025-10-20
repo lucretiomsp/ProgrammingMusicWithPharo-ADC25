@@ -1,4 +1,4 @@
-# Programming Music on-the-fly with Pharo - ADC25 Bristol, UK.
+# Programming Music on-the-fly with Pharo - _ADC25_ Bristol, UK.
 Slides, code, and extra materials for the ADC25 workshop **“Programming Music and Synthesizers on the Fly with Pharo”**
 
 ## Useful links

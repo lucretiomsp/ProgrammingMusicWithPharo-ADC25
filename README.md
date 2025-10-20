@@ -1,6 +1,7 @@
+# Programming Music on-the-fly with Pharo - _ADC25_ Bristol, UK.
+
 ![nutria in black and white](nutria_black.png)
 
-# Programming Music on-the-fly with Pharo - _ADC25_ Bristol, UK.
 Slides, code, and extra materials for the ADC25 workshop **“Programming Music and Synthesizers on the Fly with Pharo”**
 
 

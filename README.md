@@ -8,9 +8,9 @@ Slides, code, and extra materials for the ADC25 workshop **“Programming Music 
 ## Useful links
 [Download Pharo](https://pharo.org/)
 
-[Coypu Github Repositoy](https://github.com/lucretiomsp/Coypu).
+[Coypu Github Repositoy](https://github.com/lucretiomsp/Coypu)
 
-[Phausto Github Respository](https://github.com/lucretiomsp/Phausto).
+[Phausto Github Respository](https://github.com/lucretiomsp/Phausto)
 
 [Pharo MOOC](https://mooc.pharo.org/)
 

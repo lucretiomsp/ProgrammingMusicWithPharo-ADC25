@@ -17,6 +17,8 @@ Slides, code, and extra materials for the ADC25 workshop **“Programming Music 
 
 [Pharo MOOC](https://mooc.pharo.org/)
 
+[Master Lu](https://github.com/lucretiomsp/MasterLu)
+
 [All things Live Coding](https://github.com/toplap/awesome-livecoding)
 
 [LIVE CODING _a user's manual](https://static.livecodingbook.toplap.org/books/livecoding.pdf)

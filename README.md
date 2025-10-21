@@ -6,9 +6,12 @@ Slides, code, and extra materials for the ADC25 workshop **“Programming Music 
 
 
 ## Useful links
+
 [Download Pharo](https://pharo.org/)
 
 [Coypu Github Repositoy](https://github.com/lucretiomsp/Coypu)
+
+[TOPLAP - the home of live coding](https://blog.toplap.org)
 
 [Phausto Github Respository](https://github.com/lucretiomsp/Phausto)
 

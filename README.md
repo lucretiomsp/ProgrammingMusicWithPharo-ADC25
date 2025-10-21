@@ -20,3 +20,6 @@ Slides, code, and extra materials for the ADC25 workshop **“Programming Music 
 
 [Hexbeat tutorial by Steven Yi](https://github.com/kunstmusik/csound-live-code/blob/main/doc/hexadecimal_beats.md)
 
+[Leanr Bloc](https://github.com/SquareBracketAssociates/Booklet-Graphics)
+
+

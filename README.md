@@ -27,4 +27,6 @@ Slides, code, and extra materials for the ADC25 workshop **“Programming Music 
 
 [Learn Bloc](https://github.com/SquareBracketAssociates/Booklet-Graphics)
 
+[Pharo Communinty & Help](https://pharo.org/community)
+
 

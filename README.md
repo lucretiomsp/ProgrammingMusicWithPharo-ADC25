@@ -3,9 +3,20 @@
 ![nutria in black and white](nutria_black.png)
 
 Slides, code, and extra materials for the ADC25 workshop **“Programming Music and Synthesizers on the Fly with Pharo”**
-If Pharo'syntax fits on a postcard, Coypu's fits on his [business card](https://github.com/lucretiomsp/ProgrammingMusicWithPharo-ADC25/blob/main/coypuBusinessCard.md).
 
-Once you have downloaded the [Pharo launcher](https://pharo.org/download) for your operatimg sytem, create a Pharo image for Pharo13.
+Once you have downloaded the Pharo Launcher for your operating system, create a Pharo image for Pharo 13.
+Open your Pharo image by double-clicking it, then open a Playground (Cmd/Ctrl + O + P).
+
+Copy and paste this snippet of code:
+```Smalltalk
+Metacello new
+    baseline: 'Coypu';
+    repository: 'github://lucretiomsp/coypu:master';
+    load
+```
+and evaluate it all with CMD/CTRL + D.
+Now it's time to have fun! 🎵
+If Pharo's syntax fits on a postcard, Coypu's fits on his [business card](https://github.com/lucretiomsp/ProgrammingMusicWithPharo-ADC25/blob/main/coypuBusinessCard.md).
 
 
 

@@ -3,6 +3,7 @@
 ![nutria in black and white](nutria_black.png)
 
 Slides, code, and extra materials for the ADC25 workshop **“Programming Music and Synthesizers on the Fly with Pharo”**
+If Pharo'syntax fits on a postcard, Coypu's fits on his [business card](https://github.com/lucretiomsp/ProgrammingMusicWithPharo-ADC25/blob/main/coypuBusinessCard.md)
 
 
 ## Useful links

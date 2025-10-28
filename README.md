@@ -17,6 +17,8 @@ Metacello new
 and evaluate it all with CMD/CTRL + D.
 Now it's time to have fun! 🎵
 If Pharo's syntax fits on a postcard, Coypu's fits on his [business card](https://github.com/lucretiomsp/ProgrammingMusicWithPharo-ADC25/blob/main/coypuBusinessCard.md).
+⚠️ **Attention:** If you are running Windows, please install [ASIO4ALL drivers](https://asio4all.org/about/download-asio4all/) to enjoy Phausto!
+
 
 
 

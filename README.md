@@ -49,4 +49,6 @@ If Pharo's syntax fits on a postcard, Coypu's fits on his [business card](https:
 
 [Pharo Communinty & Help](https://pharo.org/community)
 
+[Coypu: Gnawing Music On-The-Fly With Pharo](https://zenodo.org/records/15528063) , from the Proceedings of the International Conference on Live Coding 2025, Barcelona.
+
 

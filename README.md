@@ -52,4 +52,6 @@ TurboPhausto samples can be seprately downloade [here](https://drive.google.com/
 
 [Coypu: Gnawing Music On-The-Fly With Pharo](https://zenodo.org/records/15528063), from the Proceedings of the International Conference on Live Coding 2025, Barcelona.
 
+[All Pharo books](https://books.pharo.org/)
+
 

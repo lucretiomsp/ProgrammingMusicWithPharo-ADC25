@@ -6,10 +6,10 @@ EcoPhausto start.
 ep := EcoPhausto new.
 
 "you can see all the EcoPhausto instruments in a Transcript"
-EcoPhausto listOfInstruments. 
+EcoPhausto listAllInstruments. 
 
 "play the Performance"
-ep playFor: 64 bars. 
+ep playFor: 128 bars. 
 "it is empty now but we will add a sequencer to it in the following lines"
 "Sequencers can be created by sending the asSeq message to an array of 1 and 0"
  #(1 0 0 1 0 0 0 0) asSeq to: #kick.
@@ -26,7 +26,7 @@ Rhythm list.
 "sequencers can be joined with a comma - binary operator for joining collections in Pharo"
 16 quavers , 16 semiquavers to: #oh.
 "we can mute sequencers"
-ep mute: #(#kick #snare).
+ep mute: #(#kick #snare #bleep).
 "and unmute them"
 ep unmute: #(#kick #snare).
 "you can create randomTrigs - and then cascade a string to change the level of the sound"
@@ -52,13 +52,12 @@ ep unmute: #(#kick #snare).
 64 randomTrigs notes: (32 randomWalksOn: Scale sakura octaves: 2 root: 48) to: #psg.
 
 "sequencers can be soloed"
-ep solo: #(#snare #cowbell).
+ep solo: #(#psg #cowbell).
 "and unsoloed - that takes the performance back to the status between the solo"
-ep unsolo: #(#snare #cowbell).
+ep unsolo: #(#psg #cowbell).
 
 "change the bpm"
 ep bpm: 96.
-
-```
 "stop the performance"
 ep stop.
+```
